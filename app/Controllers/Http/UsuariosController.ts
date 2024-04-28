@@ -1,5 +1,5 @@
-import Usuario from 'App/Models/Usuario'
-import { UsuarioRepository } from 'App/Repository/UsuarioRepository'
+import Usuario from 'App/Models/entities/Usuario'
+import { UsuarioRepository } from 'App/Repositories/UsuarioRepository'
 import DataPageValidator from 'App/Validators/DataPageValidator'
 import { HttpContext } from '@adonisjs/core/build/standalone'
 

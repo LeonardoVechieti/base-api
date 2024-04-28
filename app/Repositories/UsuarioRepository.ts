@@ -1,4 +1,4 @@
-import Usuario from 'App/Models/Usuario'
+import Usuario from 'App/Models/entities/Usuario'
 
 export class UsuarioRepository {
 
